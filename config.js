@@ -4,7 +4,7 @@
 
 𝐀𝐮𝐭𝐡𝐨𝐫 : 𝐃𝐚𝐩𝐚 𝐌𝐮𝐯𝐢
 𝐖𝐚 : 089514653159
-𝐛𝐚𝐬𝐞 : 𝑁𝑎𝑟𝑢𝑡𝑜𝑚𝑜
+𝐛𝐚𝐬𝐞 : dafamv
 𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 22 𝐴𝑔𝑢𝑠𝑡𝑢𝑠 2022
 
 ⫹❰⫺ 𝐵𝐼𝐺 𝑇𝐻𝐴𝑁𝐾𝑆 𝑇𝑂 ⫹❱⫺
@@ -17,23 +17,18 @@
 ⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔
 ⭝ 𝑨𝒅𝒊𝒘𝒂𝒋𝒊𝒔𝒉𝒊𝒏𝒈
 ⭝ 𝑵𝒂𝒓𝒖𝒕𝒐𝒎𝒐
-⭝ 𝑹𝒊𝒔𝒎𝒂𝑩𝒐𝒕𝒛 𝑶𝒇𝒇𝒄
 ⭝ 𝑱𝒂𝒓𝒐𝒕 𝑶𝒇𝒇𝒄
 ⭝ 𝑯𝒚𝒛𝒆𝒓
-⭝ 𝑫𝒆𝒇𝒇𝒓𝒊
 ⭝ 𝑲𝒂𝒏𝒏𝒂𝑪𝒉𝒂𝒏
 ⭝ 𝑪𝒉𝒓𝒊𝒔𝒕𝒊𝒂𝒏 𝑰𝒅
 ⭝ 𝑨𝒊𝒏𝒆
 ⭝ 𝑨𝒓𝒊𝒇𝒇𝒃
 ⭝ 𝑰𝒍𝒎𝒂𝒏
-⭝ 𝑨𝒎𝒊𝒓𝒖𝒍
-⭝ 𝑰𝒔𝒕𝒊𝒌𝒎𝒂𝒍
-⭝ 𝑭𝒛𝒐𝒏𝒆
 ⭝ 𝑭𝒂𝑱𝒂𝒓
 ⭝ 𝑨𝒓𝒖𝒍𝒍 𝑶𝒇𝒄
 ⭝ 𝒁𝒆𝒆𝒐𝒏𝒆 𝑶𝒇𝒄
-⭝ 𝑹𝒂𝒎𝒍𝑎𝑛
 ⭝ 𝑮𝒆𝒎𝒑𝒚𝒓𝑻𝒐𝒏
+⭝ 𝑫𝒂𝒇𝒂 𝑶𝒇𝒄
 let nowner1 = `${nomorown1.split`@`[0]}@s.whatsapp.net`
   let nowner2 = `${nomorown2.split`@`[0]}@s.whatsapp.net`
   let teksnomor = `${htki} *OWNER* ${htka}
@@ -100,12 +95,12 @@ global.namebot = '​ DafaBotz'
 global.wm = '© DafaBotz Bye DafaMV'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.wm = 'DafaMV '
-global.watermark = wm
-global.wm2 = 'DaniXd '
+global.watermark = faa
+global.wm2 = 'dafaMv '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝒟𝒶𝒻𝒶 𝒳 𝒦𝒶𝓇𝑒𝓁`
-global.stickpack = '𝒟𝒶𝒻𝒶 𝒳 𝒦𝒶𝓇𝑒𝓁'
+global.titlebot = `dafa`
+global.stickpack = 'dafa'
 global.stickauth = `© DafaBotz MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
@@ -114,7 +109,7 @@ global.nameown1= 'DafaMV'
 global.nameown2 = 'DafaMV'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
-global.lynk = 'https://lynk.id/hyuuraofc'
+global.lynk = '-'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -303,7 +298,7 @@ global.drtf = 'text/rtf'
 global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
 global.thumb = 'https://telegra.ph/file/d228cf9e49e7413568a1c.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/d228cf9e49e7413568a1c.jpg'
+global.imagebot = '20221026_124220.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://telegra.ph/file/d228cf9e49e7413568a1c.jpg']
 global.thumbnailUrl = [
@@ -313,8 +308,8 @@ global.thumbnailUrl = [
   'https://telegra.ph/file/55e5af5f33fbd57104187.jpg', 'https://telegra.ph/file/af236598456b95884bd15.jpg',
   'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
 ]
-global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/e72de2cbba03f58eba7d1.jpg' //ini juga ganti 
+global.fotonya1 = '20221026_124220.jpg' //ganti jadi foto bot mu
+global.fotonya2 = '20221026_124220.jpg' //ini juga ganti 
 global.flaaa2 = [
  "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=",
  "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=",
@@ -343,9 +338,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/hyuura-official"
+global.urlnya = "https://www.instagram.com/mdfaa04"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '0813 6128 1833'
+global.phn = '0895 1465 3159'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
